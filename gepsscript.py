@@ -57,7 +57,7 @@ def tik():
 
 back = 0
 threads = []
-berhasil = []
+berhasil = []acc
 cekpoint = []
 oks = []
 id = []
